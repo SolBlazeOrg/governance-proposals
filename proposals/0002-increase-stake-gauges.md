@@ -1,5 +1,5 @@
 # SBGP-0002: Increase Stake Gauges
-SolBlaze would like to propose a change to the BlazeStake standard delegation strategy where 20% of stake under this strategy would be controlled by the BLZE gauge-based voting system. 
+SolBlaze would like to propose a change to the BlazeStake standard delegation strategy where 20% of stake under this strategy would be controlled by the BLZE gauge-based voting system. This proposal will be the first in a planned series of increases over the next few quarters to kickstart the BLZE wars.
 
 ## Proposed Change
 The current breakdown of the BlazeStake standard delegation strategy is as follows:
