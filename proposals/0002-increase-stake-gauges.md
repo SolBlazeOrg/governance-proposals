@@ -23,6 +23,6 @@ Yes - The delegation strategy will be updated in accordance with this proposal
 No - The delegation strategy will remain unchanged
 
 ## Next Steps
-If the proposal passes, the gauges will be released during the same week, pending any final preparations or last-minute bugfixes for issues caught during testing. Stake in the pool will be rebalanced according to the new standard delegation strategy once the first weekly veBLZE vote weight snapshot is taken for the gauges.
+If the proposal passes, the delegation strategy parameters will be updated during the same week. Stake in the pool will be rebalanced according to the new delegation strategy once the next first weekly veBLZE vote weight snapshot is taken for the gauges.
 
 If the proposal fails, SolBlaze will discuss any shortcomings or concerns that caused this proposal to fail, make any necessary revisions, and submit a new proposal to the SolBlaze DAO.
