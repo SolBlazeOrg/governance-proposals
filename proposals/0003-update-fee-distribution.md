@@ -1,5 +1,5 @@
 # SBGP-0003: Update Fee Distribution
-SolBlaze would like to propose a change to the BlazeStake fee distribution where 50% of fees will be sent to the SolBlaze DAO. 
+SolBlaze would like to propose a change to the BlazeStake fee distribution where 50% of stake pool fees (in BLZE) will be sent to the SolBlaze DAO. The fees can be burned by the DAO, used to bribe gauge voters, or utilized in other areas as determined by DAO vote.
 
 ## Proposed Change
 The current breakdown of the BlazeStake fee distribution is as follows:
