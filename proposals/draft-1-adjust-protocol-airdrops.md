@@ -1,4 +1,4 @@
-# SBGP-0004: Adjust Protocol Airdrops
+# DRAFT-1: Adjust Protocol Airdrops
 SolBlaze would like to propose a change to the BlazeStake protocol airdrops (the incentives given to protocol teams, not to users) where the airdrops will be sent as max-locked veBLZE instead of unlocked BLZE.
 
 ## Proposed Change
