@@ -1,5 +1,5 @@
 # SBGP-0004: Increase User Airdrops and Adjust DeFi Team Incentives
-SolBlaze would like to propose a change to the BlazeStake airdrops where user airdrops are increased by replacing the airdrop allocation to DeFi teams with a rewards multiplier system. This change will increase user airdrops by more than 40% and will not decrease emissions.
+SolBlaze would like to propose a change to BlazeStake airdrops where user airdrops are increased by replacing the airdrop allocation to DeFi teams with a rewards multiplier system. This change will increase user airdrops by more than 40% and won't change emissions.
 
 ## Proposed Change
 Currently, more than 30% of BLZE in airdrops is given to DeFi teams that maintain protocols in proportion to their bSOL-related TVL. This allocation was initially established when bSOL was not widely used in DeFi, and the BLZE airdrop to DeFi teams was an incentive that encouraged DeFi protocols to specifically promote their bSOL integrations. As a result, the TVL of BlazeStake initially increased since DeFi integrations encouraged users to switch to bSOL in their protocols.
