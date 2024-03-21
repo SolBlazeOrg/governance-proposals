@@ -1,4 +1,4 @@
-# SBGP-0004: Increase User Airdrops and Adjust Protocol Team Incentives
+# SBGP-0004: Increase User Airdrops and Adjust DeFi Team Incentives
 SolBlaze would like to propose a change to the BlazeStake airdrops where user airdrops are increased by replacing the airdrop allocation to DeFi teams with a rewards multiplier system. This change will not decrease airdrops or emissions for users.
 
 ## Proposed Change
