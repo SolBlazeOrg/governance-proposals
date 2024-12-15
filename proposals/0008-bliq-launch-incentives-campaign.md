@@ -2,7 +2,7 @@
 SolBlaze would like to propose a Bliq launch incentives campaign of 200m locked BLZE to rapidly grow Bliq TVL to 1m+ SOL.
 
 ## Proposed Change
-SolBlaze is gearing up to launch Bliq within the next few days and would like to utilize the DAO's BLZE warchest to strategically incentivize the growth of this new protocol.
+SolBlaze is gearing up to launch Bliq (a new protocol) within the next few days and would like to utilize the DAO's BLZE warchest to strategically incentivize the growth of this new protocol.
 
 The DAO fee revenues account currently has 1b BLZE, and we would like to earmark 200m BLZE (<20%) from that account for the purposes of incentivizing adoption of Bliq.
 
