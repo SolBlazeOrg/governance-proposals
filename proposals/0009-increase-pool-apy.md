@@ -1,5 +1,5 @@
 # SBGP-0009: Increase Pool APY
-SolBlaze would like to propose a variety of changes to the delegation strategy and BlazeStake pool parameters to increase APY.
+SolBlaze would like to propose a variety of changes to the delegation strategy and BlazeStake pool parameters to increase the APY of the pool while still supporting a wide range of validators.
 
 ## Proposed Change
 In an increasingly competitive liquid staking environment, bSOL currently has a lower APY compared to other alternatives, including LSTs launched on Bliq. This lower APY is in part due to SolBlaze's relaxed rules on its standard delegation strategy, which stakes to higher commission validators (unlike other pools such as Jito and effectively Marinade which force 0% or in some cases negative commission) in order to support the validator ecosystem. These changes to the delegation strategy seek to maintain that spirit while also focusing on growing bSOL stake through increased APYs, which only further supports validators.
