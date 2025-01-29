@@ -19,7 +19,7 @@ Breakdown of current delegation strategy and pool parameters:
 Breakdown of new delegation strategy and pool parameters:
 - 50% algorithmic strategy (distributed across hundreds of 0% commission and 0% MEV commission validators or small validators with the goal of increasing decentralization of the network)
 - 20% BLZE gauges (allows BLZE holders to vote on which validators should receive this stake through the BLZE gauge-based voting model)
-- 20% high performance (distributed across high APY validators who are contributing positively to the network)
+- 20% high performance (distributed across high APY validators who are contributing positively to the network and maintaining 0% commission + 0% MEV commission)
 - 10% BlazeBoost matching pool (used to boost stake done through Custom Liquid Staking as an incentive for validators to promote BlazeStake usage)
 - 0% epoch commission until March 1st (unless a future proposal is made to extend the 0% commission period)
 
