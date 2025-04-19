@@ -10,7 +10,7 @@ The market will also be integrated with Kamino's other features such as Kamino M
 
 As part of the launch for this new market, we have worked with Allez Labs to create an incentives structure which will help bring in SOL deposits, which SolBlaze users can borrow against their bSOL collateral.
 
-Based on the projections that have been modeled by Allez Labs, the optimal amount of incentives for the pool is 250m BLZE over the next 2 months, which should attract significant deposits into the lending market.
+Based on the projections that have been modeled by Allez Labs, the optimal amount of incentives for the pool is 250m BLZE over the first 2 months of the incentives campaign, which should attract significant deposits into the lending market.
 
 ## Implementation Details
 The 250m BLZE will be transferred to Kamino after the passing of this proposal so that they can deploy the incentives when the lending market launches.
