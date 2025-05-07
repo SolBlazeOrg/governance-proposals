@@ -6,7 +6,7 @@ The design of the existing SolBlaze website has been fairly basic, and many peop
 
 As a result, we are partnering with v21 Studio to perform a full revamp to our SolBlaze website, improving the user flow and bringing the landing page, BlazeStake, and BlazeRewards together under one cohesive website.
 
-In terms of credibility, v21 Studio is a crypto-native design firm who recently completed redesigns for the The Vault and are working on a revamp of Vota and SolanaHub (all of these are SolBlaze partners and heavily BLZE-aligned community members). The team from The Vault shared strongly positive testimonials from their experience. Examples of v21 Studio's work can be found [here](https://www.v21.studio/work) and a showreel can be found [here](https://drive.google.com/file/d/1GldvsEQYt_NzmnAe8xCjLalxAIuhn-5J/view).
+In terms of credibility, v21 Studio is a crypto-native design firm who recently completed redesigns for the The Vault and are working on a revamp of Vota and SolanaHub (all of these are SolBlaze partners and heavily BLZE-aligned community members). Several members from The Vault's team shared strong positive testimonials from their experience. Examples of v21 Studio's work can be found [here](https://www.v21.studio/work) and a showreel can be found [here](https://drive.google.com/file/d/1GldvsEQYt_NzmnAe8xCjLalxAIuhn-5J/view).
 
 The scope of the revamp includes an immersive landing page (animated/parallax), complete revamps of existing pages (stake, DeFi, Custom Liquid Staking, BLZE Gauges), reordering of existing pages (combining BLZE airdrop tracker with the leaderboard), and brand new pages (validators list, resources, native docs).
 
