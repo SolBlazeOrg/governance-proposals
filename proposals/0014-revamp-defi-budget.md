@@ -12,7 +12,7 @@ Furthermore, there are some upcoming changes to Pyth's oracle funding model that
 
 ## Implementation Details
 
-We will coordinate the new emissions system with our partners in the DeFi ecosystem, perform the steps necessary to deprecate the non-validator gauges, and ensure that we continue to meet the funding obligations associate with our Pyth Sponsored Feeds.
+We will coordinate the new emissions system with our partners in the DeFi ecosystem, perform the steps necessary to deprecate the non-validator gauges, and ensure that we continue to meet the funding obligations associated with our Pyth Sponsored Feeds.
 
 ## Voting
 Yes - the DeFi budget will be revamped in accordance with this proposal
