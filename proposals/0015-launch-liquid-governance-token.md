@@ -2,7 +2,7 @@
 Votex would like to propose a launch of a liquid governance token called xBLZE, which represents BLZE max-locked in governance. This proposal was originally drafted by the Votex team and is being submitted on their behalf.
 
 ## Proposed Change
-Votex and SolBlaze already have a strong partnership through the veBLZE votes market, where SolBlaze users can delegate their locked veBLZE and validators can buy voting power that can be used in the BLZE Gauges [votex.so/daos/solblaze](https://votex.so/daos/solblaze). Right now, 200m veBLZE is delegated to the votes market, generating annualized APR ranging from 16% to 74%. Building on this collaboration, Votex proposes to launch xBLZE, a liquid representation of BLZE max-locked in governance. Users will be able to:
+Votex and SolBlaze already have a strong partnership through the veBLZE votes market, where SolBlaze users can delegate their locked veBLZE and validators can buy voting power that can be used in the BLZE Gauges ([votex.so/daos/solblaze](https://votex.so/daos/solblaze)). Right now, 200m veBLZE is delegated to the votes market, generating annualized APR ranging from 16% to 74%. Building on this collaboration, Votex proposes to launch xBLZE, a liquid representation of BLZE max-locked in governance. Users will be able to:
 - **Stake liquid BLZE and mint xBLZE**, which represents a liquid version of veBLZE (BLZE max-locked in governance)
 - **Deposit xBLZE to a dedicated rewards pool**. This pool will receive vote power buys from the veBLZE votes market, where validators purchase veBLZE voting power in order to participate in the BLZE Gauges
 
