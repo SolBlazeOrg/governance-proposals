@@ -1,5 +1,5 @@
 # SBGP-0017: Improve Delegation Wait Times
-SolBlaze would like to propose an improvement to the Verified Validators Program to address the issue of long wait times for full approval stake while providing more predictability for validators to participate in the program.
+SolBlaze would like to propose an improvement to the Verified Validators Program to address the issue of long wait times for full approval stake while providing more predictability for validators looking to participate in the program.
 
 ## Proposed Change
 The current Verified Validators Program consists of a linear stake distribution system, where validators are accepted in batches over time for full stake, and validators that qualify as Candidates receive baseline stake while they wait in the queue. However, due to TVL bleeding, combined with potential institutional inflows drying up from the ongoing bear market, it has become increasingly difficult to accept batches on a more frequent basis, which has caused long delays for validators patiently waiting in the queue. 
