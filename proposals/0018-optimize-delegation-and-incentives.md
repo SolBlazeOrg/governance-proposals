@@ -1,4 +1,4 @@
-# SBGP-0018: Optimize Delegation and APY
+# SBGP-0018: Optimize Delegation and Incentives
 SolBlaze would like to propose an optimization to the Verified Validators Program to ensure consistency for validators, improve the APY of the pool, reduce operational overhead, and provide exclusive incentivized opportunities for participants in the Verified Validators Program.
 
 ## Proposed Change
